@@ -1,0 +1,82 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wood_Bamboo_Medium
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Wood_Bamboo_Medium.jpg
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.541176 0.709804
+Ks 0.330000 0.330000 0.330000
+d 0.520000
+map_Kd house/Translucent_Glass_Sky_Reflection.jpg
+
+newmtl Vegetation_Bark_Maple
+Ka 0.000000 0.000000 0.000000
+Kd 0.894118 0.780392 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Vegetation_Bark_Maple.jpg
+
+newmtl Color_B21
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.047059 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Floor_Parquet
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.349020 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Wood_Floor_Parquet.jpg
+
+newmtl Vegetation_Blur7
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.447059 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Vegetation_Blur7.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.368627 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Roofing_Tile_Spanish.jpg
+
+newmtl Groundcover_Rock_Crushed_2inch
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.498039 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Groundcover_Rock_Crushed_2inch.jpg
+
+newmtl Translucent_Glass_Corrugated
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.619608 0.564706
+Ks 0.330000 0.330000 0.330000
+d 0.800000
+map_Kd house/Translucent_Glass_Corrugated.jpg
+
+newmtl Carpet_Pattern_LeafSquares_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.603922 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Carpet_Pattern_LeafSquares_Tan.jpg
+
+newmtl Carpet_Berber_Pattern_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.647059 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Carpet_Berber_Pattern_Gray.jpg
+
+newmtl Vegetation_Grass1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.627451 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd house/Vegetation_Grass1.jpg
+
