@@ -1,0 +1,102 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Material3
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.145098 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Material3.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_005
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.447059 0.447059
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Windmill
+Ka 0.000000 0.000000 0.000000
+Kd 0.925490 0.925490 0.925490
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Windmill.png
+
+newmtl _Translucent_Glass_Tinted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd showroom-sTexturou/_Translucent_Glass_Tinted_1.jpg
+
+newmtl Material4
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.125490 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Material4.jpg
+
+newmtl Concrete_Stamped_Ashlar
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.278431 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Concrete_Stamped_Ashlar.jpg
+
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd showroom-sTexturou/Translucent_Glass_Tinted.jpg
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Metal_Steel_Textured.jpg
+
+newmtl Color_003
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl moj_mramor
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.713725 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/moj_mramor.jpg
+
+newmtl beton
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.592157 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/beton.jpg
+
+newmtl Asphalt_Stamped_Brick
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.521569 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Asphalt_Stamped_Brick.jpg
+
+newmtl Wood_Floor_Parquet
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.349020 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom-sTexturou/Wood_Floor_Parquet.jpg
+
