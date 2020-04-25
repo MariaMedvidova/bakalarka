@@ -56,6 +56,13 @@ Kd 0.415686 0.431373 0.482353
 Ks 0.330000 0.330000 0.330000
 map_Kd showroom_moje_textury_zmensene/Metal_Steel_Textured.jpg
 
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd showroom_moje_textury_zmensene/Translucent_Glass_Tinted.jpg
+
 newmtl rsz_beton
 Ka 0.000000 0.000000 0.000000
 Kd 0.588235 0.588235 0.600000
