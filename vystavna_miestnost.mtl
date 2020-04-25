@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Blinds_Wood_Bamboo
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.368627 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd vystavna_miestnost/Blinds_Wood_Bamboo.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Stone_Flagstone_Ashlar
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.454902 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd vystavna_miestnost/Stone_Flagstone_Ashlar.jpg
+
+newmtl Blinds_Cellular_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.827451 0.835294
+Ks 0.330000 0.330000 0.330000
+map_Kd vystavna_miestnost/Blinds_Cellular_White.jpg
+
+newmtl Blinds_Cloth_Horizontal
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.639216 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd vystavna_miestnost/Blinds_Cloth_Horizontal.jpg
+
