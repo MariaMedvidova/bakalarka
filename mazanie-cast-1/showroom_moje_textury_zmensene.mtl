@@ -1,0 +1,82 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl rsz_drevo
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.145098 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom_moje_textury_zmensene/rsz_drevo.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.886275 0.886275
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_005
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.447059 0.447059
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Translucent_Glass_Tinted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd showroom_moje_textury_zmensene/_Translucent_Glass_Tinted_1.jpg
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom_moje_textury_zmensene/Metal_Steel_Textured.jpg
+
+newmtl rsz_beton
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.588235 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom_moje_textury_zmensene/rsz_beton.jpg
+
+newmtl Color_003
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd showroom_moje_textury_zmensene/Translucent_Glass_Tinted.jpg
+
+newmtl rsz_mramor
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.713725 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd showroom_moje_textury_zmensene/rsz_mramor.jpg
+
