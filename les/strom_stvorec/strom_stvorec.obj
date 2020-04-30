@@ -188,7 +188,7 @@ f 3/5/6 6/8/6 5/7/6
 f 6/25/20 3/24/20 9/23/20
 
 usemtl M_0042_Sienna
-vt 0 -0.696483
+vt 8.88178e-16 -0.696483
 vn -0.864895 0.0510686 -0.499348
 vt 7.87402 -0.696483
 vt 4.6949 58.306
@@ -198,7 +198,45 @@ usemtl BackColor
 vn 0.864895 -0.0510686 0.499348
 f 5/41/10 8/40/10 10/39/32
 
-g Mesh2 Group1 koruna_stvorec1 strom_stvorec1 Model
+g Mesh2 kmen1 strom_stvorec1 Model
+
+l 3 2
+
+l 11 3
+
+l 11 1
+
+l 9 11
+
+l 9 6
+
+l 8 9
+
+l 10 8
+
+l 12 10
+
+l 12 4
+
+l 1 12
+
+l 1 2
+
+l 2 4
+
+l 4 5
+
+l 5 7
+
+l 10 5
+
+l 7 6
+
+l 8 7
+
+l 6 3
+
+g Mesh3 Group1 koruna_stvorec1 strom_stvorec1 Model
 
 usemtl M_0058_Olive
 v -0.301735 2.25671 0.282883
@@ -298,7 +336,33 @@ f 18/47/36 19/48/36 14/1/36
 
 f 15/46/34 17/45/34 14/1/34
 
-g Mesh3 Group2 koruna_stvorec1 strom_stvorec1 Model
+g Mesh4 Group1 koruna_stvorec1 strom_stvorec1 Model
+
+l 15 13
+
+l 15 17
+
+l 14 15
+
+l 16 14
+
+l 13 16
+
+l 13 20
+
+l 17 20
+
+l 18 17
+
+l 19 18
+
+l 20 19
+
+l 16 19
+
+l 14 18
+
+g Mesh5 Group2 koruna_stvorec1 strom_stvorec1 Model
 
 usemtl M_0058_Olive
 v -0.189971 1.90671 0.659264
@@ -381,7 +445,33 @@ f 26/69/34 27/68/34 22/1/34
 
 f 23/66/14 25/65/14 22/1/14
 
-g Mesh4 Group3 koruna_stvorec1 strom_stvorec1 Model
+g Mesh6 Group2 koruna_stvorec1 strom_stvorec1 Model
+
+l 25 23
+
+l 25 26
+
+l 28 25
+
+l 28 21
+
+l 28 27
+
+l 27 24
+
+l 27 26
+
+l 26 22
+
+l 22 23
+
+l 22 24
+
+l 24 21
+
+l 21 23
+
+g Mesh7 Group3 koruna_stvorec1 strom_stvorec1 Model
 
 v 0.171256 2.34223 -0.720736
 vt -3.55271e-14 14.1732
@@ -483,7 +573,33 @@ f 36/94/58 35/91/58 32/92/58
 
 f 34/79/50 30/77/50 33/78/50
 
-g Mesh5 Group4 koruna_stvorec1 strom_stvorec1 Model
+g Mesh8 Group3 koruna_stvorec1 strom_stvorec1 Model
+
+l 31 30
+
+l 31 29
+
+l 31 33
+
+l 33 34
+
+l 33 35
+
+l 36 35
+
+l 34 36
+
+l 30 34
+
+l 30 32
+
+l 29 32
+
+l 35 29
+
+l 32 36
+
+g Mesh9 Group4 koruna_stvorec1 strom_stvorec1 Model
 
 usemtl M_0059_DarkOliveGreen
 v 0.0209944 1.49671 -0.742078
@@ -565,7 +681,33 @@ f 42/100/36 43/101/36 38/1/36
 
 f 39/99/34 41/98/34 38/1/34
 
-g Mesh6 Group5 koruna_stvorec1 strom_stvorec1 Model
+g Mesh10 Group4 koruna_stvorec1 strom_stvorec1 Model
+
+l 40 38
+
+l 40 37
+
+l 43 40
+
+l 44 43
+
+l 44 41
+
+l 37 44
+
+l 37 39
+
+l 39 38
+
+l 39 41
+
+l 42 41
+
+l 43 42
+
+l 42 38
+
+g Mesh11 Group5 koruna_stvorec1 strom_stvorec1 Model
 
 usemtl M_0057_DarkKhaki
 v 0.180029 1.72396 -0.0457362
@@ -659,7 +801,33 @@ f 48/110/60 45/107/60 46/108/60
 
 f 46/113/14 47/112/14 49/111/14
 
-g Mesh7 Group6 koruna_stvorec1 strom_stvorec1 Model
+g Mesh12 Group5 koruna_stvorec1 strom_stvorec1 Model
+
+l 50 47
+
+l 52 50
+
+l 52 51
+
+l 45 52
+
+l 45 47
+
+l 45 48
+
+l 48 46
+
+l 51 48
+
+l 49 51
+
+l 50 49
+
+l 49 46
+
+l 47 46
+
+g Mesh13 Group6 koruna_stvorec1 strom_stvorec1 Model
 
 usemtl M_0057_DarkKhaki
 v -0.569971 2.48671 -0.510736
@@ -752,4 +920,30 @@ f 60/141/70 59/140/70 57/139/70
 f 55/126/36 57/128/36 54/1/36
 
 f 56/127/66 53/125/66 54/1/66
+
+g Mesh14 Group6 koruna_stvorec1 strom_stvorec1 Model
+
+l 58 59
+
+l 54 58
+
+l 56 54
+
+l 56 53
+
+l 59 56
+
+l 59 60
+
+l 60 53
+
+l 57 60
+
+l 58 57
+
+l 55 57
+
+l 54 55
+
+l 53 55
 
