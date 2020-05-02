@@ -1,0 +1,13 @@
+﻿
+newmtl Material-0
+Kd 0.7 0.7 0.7 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl drevena_stena
+Kd 1 1 1 
+Ka 0.47 0.47 0.47 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\maria\AppData\Roaming\SimLab\SimLab Composer 9\data\renders\SimLab_36\Assembly-1_fixed.png
