@@ -1,0 +1,83 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Metal_Steel_Textured.jpg
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Polished_Concrete_New.jpg
+
+newmtl Vegetation_Blur_03
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.447059 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Vegetation_Blur_03.jpg
+
+newmtl Wood_Veneer_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.274510 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Wood_Veneer_01.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _4
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.623529 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_4.png
+
+newmtl netflix
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.925490 0.929412
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/netflix.png
+
+newmtl Diamond_Cut
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.325490 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Diamond_Cut.png
+
+newmtl Textured_Glass_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.384314 0.439216
+Ks 0.330000 0.330000 0.330000
+d 0.600000
+map_Kd zaloha_showroom/Textured_Glass_5.png
+
+newmtl _Polished_Concrete_New_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.329412 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_1.png
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.564706 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_3.png
+
+newmtl _Translucent_Glass_Tinted_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_4.jpg
+
+newmtl _Polished_Concrete_New_67
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.403922 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_67.png
+
