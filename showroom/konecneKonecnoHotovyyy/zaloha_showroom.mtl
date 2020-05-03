@@ -1,0 +1,170 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Wood_Veneer_01_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.274510 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Wood_Veneer_01_1.png
+
+newmtl _Translucent_Glass_Tinted_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.811765 0.796078
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_7.png
+
+newmtl netflix1
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.941176 0.772549
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/netflix1.png
+
+newmtl _Polished_Concrete_New_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.721569 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_9.png
+
+newmtl DefaultMaterial_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.874510 0.898039 0.925490
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/DefaultMaterial_2.png
+
+newmtl _Polished_Concrete_New_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.270588 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_8.png
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Polished_Concrete_New.jpg
+
+newmtl _5
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.313725 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_5.jpg
+
+newmtl _Marble_Carrara_Floor_Tile_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.815686 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Marble_Carrara_Floor_Tile_1.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl drevena_stena3
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.623529 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/drevena_stena3.png
+
+newmtl Diamond_Cut
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.325490 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Diamond_Cut.png
+
+newmtl Textured_Glass_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.384314 0.439216
+Ks 0.330000 0.330000 0.330000
+d 0.600000
+map_Kd zaloha_showroom/Textured_Glass_5.png
+
+newmtl _Polished_Concrete_New_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.329412 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_1.png
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.564706 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_3.png
+
+newmtl _Translucent_Glass_Tinted_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_2.jpg
+
+newmtl _Translucent_Glass_Tinted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_1.jpg
+
+newmtl _Translucent_Glass_Tinted_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_4.jpg
+
+newmtl _Translucent_Glass_Tinted_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zaloha_showroom/_Translucent_Glass_Tinted_8.jpg
+
+newmtl _Metal_Steel_Textured_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.145098 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Metal_Steel_Textured_2.png
+
+newmtl _Marble_Carrara_Floor_Tile_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.815686 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Marble_Carrara_Floor_Tile_2.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Polished_Concrete_New_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.537255 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Polished_Concrete_New_4.png
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.372549 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_2.png
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.325490 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_6.png
+
+newmtl Blacktop_Old_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.533333 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/Blacktop_Old_01.jpg
+
+newmtl _Marble_Carrara_Floor_Tile_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.733333 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd zaloha_showroom/_Marble_Carrara_Floor_Tile_3.png
+
