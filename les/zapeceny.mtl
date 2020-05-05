@@ -1,0 +1,3737 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _0060_GrassGreen_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.062745 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_5.png
+
+newmtl _0060_GrassGreen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.074510 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_3.png
+
+newmtl _0060_GrassGreen_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.082353 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_4.png
+
+newmtl _0043_SaddleBrown_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.050980 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_3.png
+
+newmtl _0042_Sienna_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.090196 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_3.png
+
+newmtl GnarlyGrass6
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.188235 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass6.png
+
+newmtl _0059_DarkOliveGreen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.219608 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_1.png
+
+newmtl _0043_SaddleBrown_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.211765 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_23.png
+
+newmtl DefaultMaterial_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.007843 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_2.png
+
+newmtl _0041_Chocolate_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.113725 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_2.png
+
+newmtl _0042_Sienna_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.219608 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_5.png
+
+newmtl _Vegetation_Honey_Locust_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.337255 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_1.png
+
+newmtl _0043_SaddleBrown_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.141176 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_4.png
+
+newmtl DefaultMaterial_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_5.png
+
+newmtl _0043_SaddleBrown_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.172549 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_2.png
+
+newmtl DefaultMaterial_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.011765 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_1.png
+
+newmtl _0041_Chocolate_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.074510 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_3.png
+
+newmtl _0042_Sienna_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.176471 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_10.png
+
+newmtl M_0042_Sienna
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.172549 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0042_Sienna.png
+
+newmtl _Vegetation_Honey_Locust_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.305882 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_7.png
+
+newmtl _0043_SaddleBrown_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.019608 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_1.png
+
+newmtl DefaultMaterial_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_4.png
+
+newmtl _0060_GrassGreen_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.145098 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_17.png
+
+newmtl _0060_GrassGreen_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.141176 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_23.png
+
+newmtl _0060_GrassGreen_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.152941 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_12.png
+
+newmtl _0043_SaddleBrown_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.062745 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_24.png
+
+newmtl _0060_GrassGreen_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.121569 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_6.png
+
+newmtl _0060_GrassGreen_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.125490 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_7.png
+
+newmtl _0060_GrassGreen_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.133333 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_18.png
+
+newmtl _0043_SaddleBrown_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.054902 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_5.png
+
+newmtl _0060_GrassGreen_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.117647 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_8.png
+
+newmtl _0060_GrassGreen_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_10.png
+
+newmtl _0060_GrassGreen_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.133333 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_11.png
+
+newmtl _0043_SaddleBrown_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.074510 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_8.png
+
+newmtl _0060_GrassGreen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.066667 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_1.png
+
+newmtl _0060_GrassGreen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.082353 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_2.png
+
+newmtl _0060_GrassGreen_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.086275 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_9.png
+
+newmtl _0043_SaddleBrown_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.019608 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_7.png
+
+newmtl _0043_SaddleBrown_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.321569 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_6.png
+
+newmtl _0042_Sienna_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.137255 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_2.png
+
+newmtl _0041_Chocolate_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.117647 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_1.png
+
+newmtl _0058_Olive_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.215686 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_1.png
+
+newmtl _0059_DarkOliveGreen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.349020 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_2.png
+
+newmtl _0043_SaddleBrown_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.129412 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_20.png
+
+newmtl DefaultMaterial_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_7.png
+
+newmtl _0041_Chocolate_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.156863 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_5.png
+
+newmtl _0042_Sienna_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.090196 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_13.png
+
+newmtl _0042_Sienna_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.105882 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_8.png
+
+newmtl _Vegetation_Honey_Locust_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.250980 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_2.png
+
+newmtl _0043_SaddleBrown_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_16.png
+
+newmtl DefaultMaterial_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_9.png
+
+newmtl _0060_GrassGreen_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.145098 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_19.png
+
+newmtl _0060_GrassGreen_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.149020 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_14.png
+
+newmtl _0060_GrassGreen_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.164706 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_13.png
+
+newmtl _0043_SaddleBrown_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.035294 0.023529 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_19.png
+
+newmtl _0043_SaddleBrown_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.188235 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_17.png
+
+newmtl DefaultMaterial_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_6.png
+
+newmtl _0041_Chocolate_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.094118 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_4.png
+
+newmtl _0042_Sienna_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.168627 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_9.png
+
+newmtl _0042_Sienna_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.094118 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_6.png
+
+newmtl _Vegetation_Honey_Locust_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.294118 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_3.png
+
+newmtl _0043_SaddleBrown_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.003922 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_14.png
+
+newmtl DefaultMaterial_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_8.png
+
+newmtl _0043_SaddleBrown_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.121569 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_15.png
+
+newmtl DefaultMaterial_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.207843 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_14.png
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.231373 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Roofing_Tile_Spanish.png
+
+newmtl M_0009_Linen
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.372549 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0009_Linen.png
+
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.345098 0.376471
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd zapeceny/Translucent_Glass_Tinted.png
+
+newmtl Wood_Bamboo
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.203922 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Wood_Bamboo.png
+
+newmtl Tile_Limestone_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.035294 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Tile_Limestone_Multi.png
+
+newmtl _0043_SaddleBrown_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.141176 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_21.png
+
+newmtl DefaultMaterial_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.015686 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_13.png
+
+newmtl _0041_Chocolate_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.129412 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_6.png
+
+newmtl _0042_Sienna_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.129412 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_7.png
+
+newmtl _0042_Sienna_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.235294 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_12.png
+
+newmtl _Vegetation_Honey_Locust_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.329412 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_4.png
+
+newmtl _0043_SaddleBrown_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.015686 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_11.png
+
+newmtl DefaultMaterial_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_11.png
+
+newmtl _0043_SaddleBrown_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.203922 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_18.png
+
+newmtl DefaultMaterial_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.007843 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_10.png
+
+newmtl _0041_Chocolate_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.109804 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_7.png
+
+newmtl _0042_Sienna_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.164706 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_4.png
+
+newmtl _0042_Sienna_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.219608 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_11.png
+
+newmtl _Vegetation_Honey_Locust_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.333333 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_5.png
+
+newmtl _0043_SaddleBrown_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.015686 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_12.png
+
+newmtl DefaultMaterial_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_12.png
+
+newmtl _0060_GrassGreen_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_20.png
+
+newmtl _0060_GrassGreen_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_22.png
+
+newmtl _0060_GrassGreen_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.129412 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_24.png
+
+newmtl _0043_SaddleBrown_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.074510 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_22.png
+
+newmtl _0060_GrassGreen_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.035294 0.054902 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_21.png
+
+newmtl _0060_GrassGreen_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.074510 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_16.png
+
+newmtl _0060_GrassGreen_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.078431 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_15.png
+
+newmtl _0043_SaddleBrown_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.035294 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_9.png
+
+newmtl _0043_SaddleBrown_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.164706 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_33.png
+
+newmtl _0043_SaddleBrown_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.168627 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_26.png
+
+newmtl _0060_GrassGreen_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.117647 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_38.png
+
+newmtl _0060_GrassGreen_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.121569 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_29.png
+
+newmtl _0060_GrassGreen_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.129412 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_33.png
+
+newmtl _0043_SaddleBrown_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.054902 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_39.png
+
+newmtl _0060_GrassGreen_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.035294 0.062745 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_25.png
+
+newmtl _0060_GrassGreen_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.094118 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_37.png
+
+newmtl _0060_GrassGreen_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_31.png
+
+newmtl _0043_SaddleBrown_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.019608 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_32.png
+
+newmtl _0043_SaddleBrown_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.227451 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_38.png
+
+newmtl DefaultMaterial_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.007843 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_22.png
+
+newmtl _0041_Chocolate_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.094118 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_10.png
+
+newmtl _0042_Sienna_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.180392 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_20.png
+
+newmtl _0042_Sienna_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.200000 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_19.png
+
+newmtl _Vegetation_Honey_Locust_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.329412 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_9.png
+
+newmtl _0043_SaddleBrown_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.019608 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_13.png
+
+newmtl DefaultMaterial_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_21.png
+
+newmtl _0043_SaddleBrown_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.149020 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_28.png
+
+newmtl DefaultMaterial_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.007843 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_16.png
+
+newmtl _0041_Chocolate_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.098039 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_13.png
+
+newmtl _0042_Sienna_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.192157 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_21.png
+
+newmtl _0042_Sienna_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.047059 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_15.png
+
+newmtl _Vegetation_Honey_Locust_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.200000 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_8.png
+
+newmtl _0043_SaddleBrown_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.023529 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_31.png
+
+newmtl DefaultMaterial_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_15.png
+
+newmtl _0043_SaddleBrown_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.156863 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_34.png
+
+newmtl DefaultMaterial_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.007843 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_17.png
+
+newmtl _0041_Chocolate_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.062745 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_12.png
+
+newmtl _0042_Sienna_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_18.png
+
+newmtl _0042_Sienna_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.152941 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_14.png
+
+newmtl _Vegetation_Honey_Locust_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.305882 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_10.png
+
+newmtl _0043_SaddleBrown_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.011765 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_37.png
+
+newmtl DefaultMaterial_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_19.png
+
+newmtl _0060_GrassGreen_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.105882 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_26.png
+
+newmtl _0060_GrassGreen_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_30.png
+
+newmtl _0060_GrassGreen_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.129412 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_39.png
+
+newmtl _0043_SaddleBrown_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.066667 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_29.png
+
+newmtl _0060_GrassGreen_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.105882 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_32.png
+
+newmtl _0060_GrassGreen_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.133333 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_35.png
+
+newmtl _0060_GrassGreen_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.145098 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_27.png
+
+newmtl _0043_SaddleBrown_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.007843 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_36.png
+
+newmtl _0060_GrassGreen_49
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.070588 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_49.png
+
+newmtl _0060_GrassGreen_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.086275 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_40.png
+
+newmtl _0060_GrassGreen_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_36.png
+
+newmtl _0043_SaddleBrown_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.039216 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_30.png
+
+newmtl _0060_GrassGreen_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.113725 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_43.png
+
+newmtl _0060_GrassGreen_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.117647 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_41.png
+
+newmtl _0060_GrassGreen_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.125490 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_44.png
+
+newmtl _0043_SaddleBrown_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.043137 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_43.png
+
+newmtl _0043_SaddleBrown_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.129412 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_44.png
+
+newmtl DefaultMaterial_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_25.png
+
+newmtl _0041_Chocolate_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.133333 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_14.png
+
+newmtl _0042_Sienna_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_16.png
+
+newmtl _0042_Sienna_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.129412 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_23.png
+
+newmtl _Vegetation_Honey_Locust_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.274510 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_11.png
+
+newmtl _0043_SaddleBrown_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_41.png
+
+newmtl DefaultMaterial_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_28.png
+
+newmtl _0041_Chocolate_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.125490 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_22.png
+
+newmtl _0032_Moccasin_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.266667 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_2.png
+
+newmtl _0041_Chocolate_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.105882 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_21.png
+
+newmtl _0032_Moccasin_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.235294 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_1.png
+
+newmtl BeechChocolateBrown
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.227451 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/BeechChocolateBrown.png
+
+newmtl DefaultMaterial_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.003922 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_23.png
+
+newmtl _0041_Chocolate_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_9.png
+
+newmtl _0042_Sienna_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.188235 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_17.png
+
+newmtl _0042_Sienna_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.137255 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_24.png
+
+newmtl _Vegetation_Honey_Locust_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.309804 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_12.png
+
+newmtl _0043_SaddleBrown_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.015686 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_35.png
+
+newmtl DefaultMaterial_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_20.png
+
+newmtl _0060_GrassGreen_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.094118 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_28.png
+
+newmtl _0060_GrassGreen_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.098039 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_42.png
+
+newmtl _0060_GrassGreen_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_34.png
+
+newmtl _0043_SaddleBrown_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.050980 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_25.png
+
+newmtl _0060_GrassGreen_50
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.086275 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_50.png
+
+newmtl _0060_GrassGreen_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_48.png
+
+newmtl _0060_GrassGreen_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.125490 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_45.png
+
+newmtl _0043_SaddleBrown_49
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.003922 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_49.png
+
+newmtl _0060_GrassGreen_51
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.074510 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_51.png
+
+newmtl _0060_GrassGreen_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.070588 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_46.png
+
+newmtl _0060_GrassGreen_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.074510 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_47.png
+
+newmtl _0043_SaddleBrown_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.039216 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_42.png
+
+newmtl _0043_SaddleBrown_50
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.090196 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_50.png
+
+newmtl _0042_Sienna_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.082353 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_27.png
+
+newmtl _0041_Chocolate_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.101961 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_15.png
+
+newmtl GnarlyGrass10
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.180392 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass10.png
+
+newmtl _0059_DarkOliveGreen_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.294118 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_5.png
+
+newmtl _0043_SaddleBrown_53
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.388235 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_53.png
+
+newmtl _0042_Sienna_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.156863 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_31.png
+
+newmtl _0041_Chocolate_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.172549 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_16.png
+
+newmtl GnarlyGrass5
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.270588 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass5.png
+
+newmtl _0059_DarkOliveGreen_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.384314 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_4.png
+
+newmtl _0043_SaddleBrown_59
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.160784 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_59.png
+
+newmtl _0042_Sienna_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.113725 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_29.png
+
+newmtl _0041_Chocolate_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.105882 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_27.png
+
+newmtl GnarlyGrass9
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.168627 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass9.png
+
+newmtl _0059_DarkOliveGreen_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.203922 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_8.png
+
+newmtl _0042_Sienna_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.086275 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_37.png
+
+newmtl Grass1
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.200000 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Grass1.png
+
+newmtl Grass2
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.176471 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Grass2.png
+
+newmtl _0043_SaddleBrown_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.149020 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_46.png
+
+newmtl _0043_SaddleBrown_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.149020 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_45.png
+
+newmtl WoodPalisander
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.133333 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/WoodPalisander.png
+
+newmtl WoodAcajou2
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.141176 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/WoodAcajou2.png
+
+newmtl _0060_GrassGreen_52
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.156863 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_52.png
+
+newmtl _0060_GrassGreen_55
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.149020 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_55.png
+
+newmtl _0060_GrassGreen_57
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.164706 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_57.png
+
+newmtl _0043_SaddleBrown_62
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.062745 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_62.png
+
+newmtl _0042_Sienna_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.007843 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_38.png
+
+newmtl _0058_Olive_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.160784 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_4.png
+
+newmtl _0059_DarkOliveGreen_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.152941 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_6.png
+
+newmtl _0060_GrassGreen_64
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.137255 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_64.png
+
+newmtl _0060_GrassGreen_69
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.129412 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_69.png
+
+newmtl _0060_GrassGreen_54
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.141176 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_54.png
+
+newmtl _0043_SaddleBrown_55
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.082353 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_55.png
+
+newmtl _0060_GrassGreen_66
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.054902 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_66.png
+
+newmtl _0060_GrassGreen_56
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_56.png
+
+newmtl _0060_GrassGreen_58
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.105882 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_58.png
+
+newmtl _0043_SaddleBrown_54
+Ka 0.000000 0.000000 0.000000
+Kd 0.035294 0.027451 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_54.png
+
+newmtl _0043_SaddleBrown_63
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.094118 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_63.png
+
+newmtl _0042_Sienna_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.105882 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_47.png
+
+newmtl _0041_Chocolate_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.141176 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_30.png
+
+newmtl GnarlyGrass8
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.211765 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass8.png
+
+newmtl _0059_DarkOliveGreen_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.141176 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_11.png
+
+newmtl _0060_GrassGreen_65
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_65.png
+
+newmtl _0060_GrassGreen_53
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_53.png
+
+newmtl _0060_GrassGreen_70
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.109804 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_70.png
+
+newmtl _0043_SaddleBrown_65
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.050980 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_65.png
+
+newmtl _0043_SaddleBrown_75
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.360784 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_75.png
+
+newmtl _0042_Sienna_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.137255 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_43.png
+
+newmtl _0041_Chocolate_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.141176 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_42.png
+
+newmtl GnarlyGrass2
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.286275 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass2.png
+
+newmtl _0059_DarkOliveGreen_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.396078 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_9.png
+
+newmtl _0043_SaddleBrown_66
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.270588 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_66.png
+
+newmtl _0042_Sienna_49
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.090196 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_49.png
+
+newmtl _0041_Chocolate_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.105882 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_39.png
+
+newmtl GnarlyGrass12
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.200000 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass12.png
+
+newmtl _0059_DarkOliveGreen_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.282353 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_10.png
+
+newmtl _0043_SaddleBrown_76
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.152941 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_76.png
+
+newmtl _0042_Sienna_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.125490 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_42.png
+
+newmtl _0041_Chocolate_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.145098 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_32.png
+
+newmtl GnarlyGrass11
+Ka 0.000000 0.000000 0.000000
+Kd 0.243137 0.266667 0.196078
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass11.png
+
+newmtl _0059_DarkOliveGreen_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.329412 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_12.png
+
+newmtl _0060_GrassGreen_59
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.078431 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_59.png
+
+newmtl _0060_GrassGreen_63
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.090196 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_63.png
+
+newmtl _0060_GrassGreen_62
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.094118 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_62.png
+
+newmtl _0043_SaddleBrown_79
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.023529 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_79.png
+
+newmtl _0060_GrassGreen_67
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.082353 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_67.png
+
+newmtl _0060_GrassGreen_68
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.101961 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_68.png
+
+newmtl _0060_GrassGreen_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.109804 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_60.png
+
+newmtl _0043_SaddleBrown_74
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.047059 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_74.png
+
+newmtl _0043_SaddleBrown_67
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.160784 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_67.png
+
+newmtl _0042_Sienna_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.125490 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_48.png
+
+newmtl _0041_Chocolate_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.125490 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_37.png
+
+newmtl GnarlyGrass3
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.160784 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass3.png
+
+newmtl _0059_DarkOliveGreen_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.184314 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_13.png
+
+newmtl _0060_GrassGreen_73
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.094118 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_73.png
+
+newmtl _0060_GrassGreen_78
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.109804 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_78.png
+
+newmtl _0060_GrassGreen_61
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.113725 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_61.png
+
+newmtl _0043_SaddleBrown_69
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.043137 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_69.png
+
+newmtl _0043_SaddleBrown_93
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.388235 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_93.png
+
+newmtl _0042_Sienna_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.160784 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_46.png
+
+newmtl _0041_Chocolate_50
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.200000 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_50.png
+
+newmtl GnarlyGrass
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.282353 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass.png
+
+newmtl _0059_DarkOliveGreen_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.384314 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_16.png
+
+newmtl _0042_Sienna_59
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.011765 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_59.png
+
+newmtl _0058_Olive_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.133333 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_6.png
+
+newmtl _0059_DarkOliveGreen_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.215686 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_14.png
+
+newmtl _0042_Sienna_53
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.011765 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_53.png
+
+newmtl _0058_Olive_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.113725 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_5.png
+
+newmtl _0059_DarkOliveGreen_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.062745 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_17.png
+
+newmtl _0043_SaddleBrown_85
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.270588 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_85.png
+
+newmtl _0042_Sienna_58
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.129412 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_58.png
+
+newmtl _0041_Chocolate_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.133333 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_47.png
+
+newmtl GnarlyGrass7
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.211765 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass7.png
+
+newmtl _0059_DarkOliveGreen_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.254902 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_18.png
+
+newmtl _0060_GrassGreen_76
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.078431 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_76.png
+
+newmtl _0060_GrassGreen_74
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.090196 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_74.png
+
+newmtl _0060_GrassGreen_75
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.098039 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_75.png
+
+newmtl _0043_SaddleBrown_87
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.047059 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_87.png
+
+newmtl _0043_SaddleBrown_90
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.101961 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_90.png
+
+newmtl _0043_SaddleBrown_89
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.113725 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_89.png
+
+newmtl _0043_SaddleBrown_88
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.125490 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_88.png
+
+newmtl _0042_Sienna_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.156863 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_60.png
+
+newmtl _0041_Chocolate_49
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.184314 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_49.png
+
+newmtl GnarlyGrass1
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.223529 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass1.png
+
+newmtl _0059_DarkOliveGreen_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.337255 0.215686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_19.png
+
+newmtl _0060_GrassGreen_71
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.129412 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_71.png
+
+newmtl _0060_GrassGreen_77
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.121569 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_77.png
+
+newmtl MossGrass1
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.133333 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/MossGrass1.png
+
+newmtl _0043_SaddleBrown_81
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.078431 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_81.png
+
+newmtl _0060_GrassGreen_81
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.070588 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_81.png
+
+newmtl _0060_GrassGreen_83
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.098039 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_83.png
+
+newmtl _0060_GrassGreen_87
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.101961 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_87.png
+
+newmtl _0043_SaddleBrown_94
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.031373 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_94.png
+
+newmtl _0060_GrassGreen_72
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.070588 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_72.png
+
+newmtl _0060_GrassGreen_82
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.078431 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_82.png
+
+newmtl _0060_GrassGreen_84
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.078431 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_84.png
+
+newmtl _0043_SaddleBrown_98
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.035294 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_98.png
+
+newmtl _0043_SaddleBrown_91
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.090196 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_91.png
+
+newmtl _0042_Sienna_54
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_54.png
+
+newmtl _0041_Chocolate_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.105882 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_43.png
+
+newmtl _0058_Olive_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.180392 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_7.png
+
+newmtl _0059_DarkOliveGreen_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.286275 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_15.png
+
+newmtl _0060_GrassGreen_90
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.070588 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_90.png
+
+newmtl _0060_GrassGreen_86
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.094118 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_86.png
+
+newmtl _0060_GrassGreen_89
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.101961 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_89.png
+
+newmtl _0043_SaddleBrown_83
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.047059 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_83.png
+
+newmtl _0043_SaddleBrown_97
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.345098 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_97.png
+
+newmtl _0042_Sienna_63
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.113725 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_63.png
+
+newmtl _0041_Chocolate_55
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.164706 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_55.png
+
+newmtl M_0058_Olive
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.235294 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0058_Olive.png
+
+newmtl M_0059_DarkOliveGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.360784 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0059_DarkOliveGreen.png
+
+newmtl _0060_GrassGreen_88
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.027451 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_88.png
+
+newmtl _0060_GrassGreen_85
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.027451 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_85.png
+
+newmtl _0060_GrassGreen_80
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.031373 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_80.png
+
+newmtl _0043_SaddleBrown_96
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.015686 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_96.png
+
+newmtl M_0060_GrassGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.094118 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0060_GrassGreen.png
+
+newmtl _0060_GrassGreen_79
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.105882 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_79.png
+
+newmtl _0060_GrassGreen_91
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.117647 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0060_GrassGreen_91.png
+
+newmtl _0043_SaddleBrown_92
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.058824 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_92.png
+
+newmtl _0043_SaddleBrown_95
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.364706 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_95.png
+
+newmtl _0042_Sienna_64
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.149020 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_64.png
+
+newmtl _0041_Chocolate_56
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.196078 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_56.png
+
+newmtl GnarlyGrass4
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.270588 0.196078
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/GnarlyGrass4.png
+
+newmtl _0059_DarkOliveGreen_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.360784 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_20.png
+
+newmtl _0041_Chocolate_53
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.101961 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_53.png
+
+newmtl _0032_Moccasin_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.243137 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_5.png
+
+newmtl _0041_Chocolate_54
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.105882 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_54.png
+
+newmtl _0032_Moccasin_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.266667 0.203922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_6.png
+
+newmtl _0041_Chocolate_52
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.098039 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_52.png
+
+newmtl _0032_Moccasin_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.207843 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_3.png
+
+newmtl _0041_Chocolate_51
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.129412 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_51.png
+
+newmtl _0032_Moccasin_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.321569 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_4.png
+
+newmtl _0041_Chocolate_58
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.156863 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_58.png
+
+newmtl _0032_Moccasin_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.380392 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_10.png
+
+newmtl _0041_Chocolate_59
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.152941 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_59.png
+
+newmtl _0032_Moccasin_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.368627 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_7.png
+
+newmtl BageCeramic
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.309804 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/BageCeramic.png
+
+newmtl _0041_Chocolate_61
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.160784 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_61.png
+
+newmtl _0032_Moccasin_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.352941 0.243137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_9.png
+
+newmtl _0041_Chocolate_62
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.117647 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_62.png
+
+newmtl _0032_Moccasin_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.294118 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_8.png
+
+newmtl _0041_Chocolate_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.164706 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_60.png
+
+newmtl _0032_Moccasin_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.388235 0.282353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0032_Moccasin_11.png
+
+newmtl M_0041_Chocolate
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.196078 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0041_Chocolate.png
+
+newmtl M_0032_Moccasin
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.388235 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0032_Moccasin.png
+
+newmtl StadiumLawn1
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.215686 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/StadiumLawn1.png
+
+newmtl Ground10
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.121569 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Ground10.png
+
+newmtl _0110_LightSlateGray_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.192157 0.203922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0110_LightSlateGray_2.png
+
+newmtl Rocks1
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.141176 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Rocks1.png
+
+newmtl Rocks2
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.250980 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Rocks2.png
+
+newmtl _0058_Olive_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.219608 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_2.png
+
+newmtl _0059_DarkOliveGreen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.137255 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_3.png
+
+newmtl _0062_YellowGreen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.207843 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_2.png
+
+newmtl _0062_YellowGreen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.207843 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_1.png
+
+newmtl _0062_YellowGreen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.196078 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_3.png
+
+newmtl _0062_YellowGreen_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.196078 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_4.png
+
+newmtl _0077_DarkGreen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.196078 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_1.png
+
+newmtl _0043_SaddleBrown_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.141176 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_10.png
+
+newmtl _0041_Chocolate_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.074510 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_8.png
+
+newmtl _0042_Sienna_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.109804 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_22.png
+
+newmtl DefaultMaterial_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_18.png
+
+newmtl _Vegetation_Honey_Locust_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.309804 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_6.png
+
+newmtl Rocks3
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.274510 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Rocks3.png
+
+newmtl _Wood_Veneer_01_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.203922 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_2.png
+
+newmtl _Wood_Veneer_01_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.188235 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_1.png
+
+newmtl _0043_SaddleBrown_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.239216 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_27.png
+
+newmtl _0041_Chocolate_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.070588 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_11.png
+
+newmtl FlooringBoards
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.098039 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/FlooringBoards.png
+
+newmtl _0075_ForestGreen_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.070588 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_1.png
+
+newmtl DefaultMaterial_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.047059 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_24.png
+
+newmtl Lawn7
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.094118 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn7.png
+
+newmtl _0077_DarkGreen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.109804 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_2.png
+
+newmtl StadiumLawn
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.407843 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/StadiumLawn.png
+
+newmtl Ground1
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.180392 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Ground1.png
+
+newmtl _0043_SaddleBrown_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.223529 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_40.png
+
+newmtl _0041_Chocolate_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.090196 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_23.png
+
+newmtl _0042_Sienna_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.101961 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_28.png
+
+newmtl _0075_ForestGreen_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.090196 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_2.png
+
+newmtl DefaultMaterial_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.058824 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_26.png
+
+newmtl Lawn
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.105882 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn.png
+
+newmtl _0077_DarkGreen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.109804 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_3.png
+
+newmtl _0043_SaddleBrown_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.301961 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_48.png
+
+newmtl _0041_Chocolate_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.152941 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_17.png
+
+newmtl _0042_Sienna_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.133333 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_30.png
+
+newmtl Lawn4
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.117647 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn4.png
+
+newmtl DefaultMaterial_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.043137 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_27.png
+
+newmtl Lawn5
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.121569 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn5.png
+
+newmtl _0077_DarkGreen_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.137255 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_4.png
+
+newmtl _0043_SaddleBrown_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.188235 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_47.png
+
+newmtl _0041_Chocolate_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_20.png
+
+newmtl _0042_Sienna_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.086275 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_26.png
+
+newmtl DefaultMaterial_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_36.png
+
+newmtl _Vegetation_Honey_Locust_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.282353 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_13.png
+
+newmtl _0043_SaddleBrown_56
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.247059 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_56.png
+
+newmtl _0041_Chocolate_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_18.png
+
+newmtl _0042_Sienna_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.094118 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_25.png
+
+newmtl _0075_ForestGreen_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.074510 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_9.png
+
+newmtl DefaultMaterial_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.035294 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_29.png
+
+newmtl Lawn13
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.094118 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn13.png
+
+newmtl _0077_DarkGreen_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.113725 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_13.png
+
+newmtl _0043_SaddleBrown_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.258824 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_60.png
+
+newmtl _0041_Chocolate_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.129412 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_29.png
+
+newmtl _0042_Sienna_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.239216 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_35.png
+
+newmtl DefaultMaterial_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_33.png
+
+newmtl _Vegetation_Honey_Locust_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.349020 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_14.png
+
+newmtl _0058_Olive_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.215686 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0058_Olive_3.png
+
+newmtl _0059_DarkOliveGreen_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.156863 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0059_DarkOliveGreen_7.png
+
+newmtl _0043_SaddleBrown_52
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.290196 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_52.png
+
+newmtl _0041_Chocolate_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.074510 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_19.png
+
+newmtl _0042_Sienna_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.082353 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_32.png
+
+newmtl _0075_ForestGreen_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.094118 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_4.png
+
+newmtl DefaultMaterial_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.035294 0.027451 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_32.png
+
+newmtl Lawn14
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.101961 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn14.png
+
+newmtl _0077_DarkGreen_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.109804 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_8.png
+
+newmtl _0077_DarkGreen_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.172549 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_6.png
+
+newmtl _0077_DarkGreen_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.180392 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_9.png
+
+newmtl _0043_SaddleBrown_51
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.227451 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_51.png
+
+newmtl _0041_Chocolate_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.113725 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_33.png
+
+newmtl _0042_Sienna_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.101961 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_36.png
+
+newmtl _0075_ForestGreen_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.129412 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_3.png
+
+newmtl DefaultMaterial_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.047059 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_35.png
+
+newmtl Lawn1
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.125490 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn1.png
+
+newmtl _0077_DarkGreen_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.137255 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_11.png
+
+newmtl _0077_DarkGreen_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.211765 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_5.png
+
+newmtl _0043_SaddleBrown_64
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.101961 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_64.png
+
+newmtl _0041_Chocolate_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.090196 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_26.png
+
+newmtl _0042_Sienna_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.054902 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_33.png
+
+newmtl _0075_ForestGreen_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.062745 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_7.png
+
+newmtl DefaultMaterial_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.027451 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_31.png
+
+newmtl Lawn17
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.082353 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn17.png
+
+newmtl _0077_DarkGreen_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.101961 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_7.png
+
+newmtl _0043_SaddleBrown_58
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.239216 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_58.png
+
+newmtl _0041_Chocolate_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.058824 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_31.png
+
+newmtl WoodAcajou1
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.090196 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/WoodAcajou1.png
+
+newmtl _0075_ForestGreen_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.070588 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_8.png
+
+newmtl DefaultMaterial_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.047059 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_34.png
+
+newmtl Lawn12
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.094118 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn12.png
+
+newmtl _0077_DarkGreen_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.113725 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_12.png
+
+newmtl _0043_SaddleBrown_61
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.039216 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_61.png
+
+newmtl _0041_Chocolate_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.101961 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_28.png
+
+newmtl _0042_Sienna_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.070588 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_34.png
+
+newmtl _0075_ForestGreen_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.050980 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_5.png
+
+newmtl DefaultMaterial_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.031373 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_30.png
+
+newmtl Lawn9
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.074510 0.043137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn9.png
+
+newmtl _0077_DarkGreen_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.105882 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_14.png
+
+newmtl _0043_SaddleBrown_57
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.301961 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_57.png
+
+newmtl _0041_Chocolate_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.125490 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_24.png
+
+newmtl _0042_Sienna_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.129412 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_45.png
+
+newmtl _0075_ForestGreen_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.117647 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_10.png
+
+newmtl DefaultMaterial_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.047059 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_37.png
+
+newmtl Lawn10
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.121569 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn10.png
+
+newmtl _0077_DarkGreen_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.133333 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_15.png
+
+newmtl _0043_SaddleBrown_72
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.286275 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_72.png
+
+newmtl _0041_Chocolate_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.152941 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_25.png
+
+newmtl _0042_Sienna_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.109804 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_41.png
+
+newmtl _0075_ForestGreen_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.117647 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_6.png
+
+newmtl DefaultMaterial_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.035294 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_41.png
+
+newmtl Lawn15
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.121569 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn15.png
+
+newmtl _0077_DarkGreen_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.133333 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_10.png
+
+newmtl _0043_SaddleBrown_77
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.133333 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_77.png
+
+newmtl _0041_Chocolate_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.262745 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_41.png
+
+newmtl _0042_Sienna_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.125490 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_39.png
+
+newmtl DefaultMaterial_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_38.png
+
+newmtl _Vegetation_Honey_Locust_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.282353 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_16.png
+
+newmtl _0043_SaddleBrown_78
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.160784 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_78.png
+
+newmtl _0041_Chocolate_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.070588 0.027451
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_40.png
+
+newmtl _0042_Sienna_50
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.149020 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_50.png
+
+newmtl Lawn2
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.101961 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn2.png
+
+newmtl DefaultMaterial_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.062745 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_39.png
+
+newmtl Lawn3
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.113725 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn3.png
+
+newmtl _0077_DarkGreen_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.129412 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_16.png
+
+newmtl _0110_LightSlateGray_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.050980 0.078431 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0110_LightSlateGray_3.png
+
+newmtl _0043_SaddleBrown_80
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.243137 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_80.png
+
+newmtl _0041_Chocolate_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.184314 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_34.png
+
+newmtl _0042_Sienna_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.211765 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_40.png
+
+newmtl DefaultMaterial_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_42.png
+
+newmtl _Vegetation_Honey_Locust_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.360784 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_15.png
+
+newmtl _0043_SaddleBrown_68
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.113725 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_68.png
+
+newmtl _0041_Chocolate_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.121569 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_48.png
+
+newmtl _0042_Sienna_61
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.066667 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_61.png
+
+newmtl _0075_ForestGreen_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.074510 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_13.png
+
+newmtl DefaultMaterial_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.019608 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_46.png
+
+newmtl Lawn11
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.074510 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn11.png
+
+newmtl _0077_DarkGreen_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.098039 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_17.png
+
+newmtl _0043_SaddleBrown_73
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.278431 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_73.png
+
+newmtl _0041_Chocolate_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.149020 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_35.png
+
+newmtl _0042_Sienna_57
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.145098 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_57.png
+
+newmtl DefaultMaterial_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_43.png
+
+newmtl _Vegetation_Honey_Locust_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.337255 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_17.png
+
+newmtl _0043_SaddleBrown_86
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.180392 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_86.png
+
+newmtl _0041_Chocolate_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.333333 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_38.png
+
+newmtl _0042_Sienna_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.172549 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_44.png
+
+newmtl DefaultMaterial_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_40.png
+
+newmtl _Vegetation_Honey_Locust_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.360784 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Vegetation_Honey_Locust_18.png
+
+newmtl _0043_SaddleBrown_70
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.156863 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_70.png
+
+newmtl _0041_Chocolate_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.176471 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_46.png
+
+newmtl _0042_Sienna_62
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.070588 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_62.png
+
+newmtl _0075_ForestGreen_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.094118 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_11.png
+
+newmtl DefaultMaterial_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.058824 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_47.png
+
+newmtl M_0076_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.113725 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0076_Green.png
+
+newmtl _0077_DarkGreen_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.133333 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_21.png
+
+newmtl _0043_SaddleBrown_71
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.223529 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_71.png
+
+newmtl _0041_Chocolate_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.188235 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_36.png
+
+newmtl _0042_Sienna_56
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.203922 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_56.png
+
+newmtl DefaultMaterial_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_45.png
+
+newmtl Vegetation_Honey_Locust
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.352941 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Vegetation_Honey_Locust.png
+
+newmtl _0043_SaddleBrown_84
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.309804 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_84.png
+
+newmtl _0041_Chocolate_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.160784 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_45.png
+
+newmtl _0042_Sienna_52
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_52.png
+
+newmtl _0075_ForestGreen_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.129412 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_14.png
+
+newmtl DefaultMaterial_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.043137 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_44.png
+
+newmtl Lawn8
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.137255 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn8.png
+
+newmtl _0077_DarkGreen_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.149020 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_20.png
+
+newmtl _0043_SaddleBrown_82
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.152941 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0043_SaddleBrown_82.png
+
+newmtl _0041_Chocolate_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.125490 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_44.png
+
+newmtl _0042_Sienna_55
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.062745 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_55.png
+
+newmtl _0075_ForestGreen_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.121569 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0075_ForestGreen_12.png
+
+newmtl DefaultMaterial_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.035294 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_3.png
+
+newmtl Lawn16
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.117647 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn16.png
+
+newmtl _0077_DarkGreen_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.133333 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_18.png
+
+newmtl M_0043_SaddleBrown
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.215686 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0043_SaddleBrown.png
+
+newmtl _0041_Chocolate_57
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.152941 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0041_Chocolate_57.png
+
+newmtl _0042_Sienna_51
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0042_Sienna_51.png
+
+newmtl M_0075_ForestGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.133333 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0075_ForestGreen.png
+
+newmtl DefaultMaterial_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.047059 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/DefaultMaterial_48.png
+
+newmtl Lawn6
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.133333 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Lawn6.png
+
+newmtl _0077_DarkGreen_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.145098 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_23.png
+
+newmtl M_0110_LightSlateGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.211765 0.223529
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0110_LightSlateGray.png
+
+newmtl _0077_DarkGreen_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.098039 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_25.png
+
+newmtl _0077_DarkGreen_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.211765 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_19.png
+
+newmtl _0077_DarkGreen_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.117647 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_22.png
+
+newmtl _0062_YellowGreen_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.223529 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_15.png
+
+newmtl _0062_YellowGreen_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.223529 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_8.png
+
+newmtl _0062_YellowGreen_12
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.200000 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_12.png
+
+newmtl _0062_YellowGreen_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.239216 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_7.png
+
+newmtl _0062_YellowGreen_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.168627 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_16.png
+
+newmtl _0062_YellowGreen_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.168627 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_13.png
+
+newmtl _0062_YellowGreen_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.176471 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_5.png
+
+newmtl _0062_YellowGreen_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.188235 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_6.png
+
+newmtl _Wood_Veneer_01_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.200000 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_4.png
+
+newmtl _Wood_Veneer_01_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.176471 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_6.png
+
+newmtl _0077_DarkGreen_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.101961 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_24.png
+
+newmtl _0062_YellowGreen_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.219608 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_23.png
+
+newmtl _0062_YellowGreen_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.219608 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_17.png
+
+newmtl _0062_YellowGreen_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.219608 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_14.png
+
+newmtl _0062_YellowGreen_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.262745 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_18.png
+
+newmtl _0077_DarkGreen_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.098039 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_28.png
+
+newmtl _0077_DarkGreen_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.105882 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_26.png
+
+newmtl _Wood_Veneer_01_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.200000 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_5.png
+
+newmtl _Wood_Veneer_01_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.172549 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_3.png
+
+newmtl _0062_YellowGreen_62
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.282353 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_62.png
+
+newmtl _0062_YellowGreen_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.282353 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_22.png
+
+newmtl _0062_YellowGreen_53
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.274510 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_53.png
+
+newmtl _0062_YellowGreen_40
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.239216 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_40.png
+
+newmtl _0062_YellowGreen_65
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.149020 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_65.png
+
+newmtl _0062_YellowGreen_64
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.149020 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_64.png
+
+newmtl _0062_YellowGreen_45
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.152941 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_45.png
+
+newmtl _0062_YellowGreen_28
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.160784 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_28.png
+
+newmtl _0062_YellowGreen_48
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.215686 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_48.png
+
+newmtl _0062_YellowGreen_50
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.215686 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_50.png
+
+newmtl _0062_YellowGreen_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.172549 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_60.png
+
+newmtl _0062_YellowGreen_54
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.250980 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_54.png
+
+newmtl _0062_YellowGreen_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.317647 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_33.png
+
+newmtl _0062_YellowGreen_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.317647 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_25.png
+
+newmtl _0062_YellowGreen_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.298039 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_34.png
+
+newmtl _0062_YellowGreen_69
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.286275 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_69.png
+
+newmtl _0077_DarkGreen_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.196078 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_30.png
+
+newmtl _0062_YellowGreen_52
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.262745 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_52.png
+
+newmtl _0062_YellowGreen_67
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.262745 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_67.png
+
+newmtl _0062_YellowGreen_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.235294 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_10.png
+
+newmtl _0062_YellowGreen_61
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.270588 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_61.png
+
+newmtl _0062_YellowGreen_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.294118 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_29.png
+
+newmtl _0062_YellowGreen_58
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.294118 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_58.png
+
+newmtl _0062_YellowGreen_56
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.274510 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_56.png
+
+newmtl _0062_YellowGreen_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.294118 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_31.png
+
+newmtl _0062_YellowGreen_63
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.274510 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_63.png
+
+newmtl _0062_YellowGreen_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.274510 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_19.png
+
+newmtl _0062_YellowGreen_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.250980 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_32.png
+
+newmtl _0062_YellowGreen_24
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.278431 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_24.png
+
+newmtl _0077_DarkGreen_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.192157 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_27.png
+
+newmtl _0062_YellowGreen_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.278431 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_21.png
+
+newmtl _0062_YellowGreen_66
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.278431 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_66.png
+
+newmtl _0062_YellowGreen_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.247059 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_11.png
+
+newmtl _0062_YellowGreen_36
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.294118 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_36.png
+
+newmtl _0077_DarkGreen_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.094118 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_33.png
+
+newmtl _0077_DarkGreen_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.141176 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_32.png
+
+newmtl _0062_YellowGreen_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.247059 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_9.png
+
+newmtl _0062_YellowGreen_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.247059 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_35.png
+
+newmtl _0062_YellowGreen_37
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.203922 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_37.png
+
+newmtl _0062_YellowGreen_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.192157 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_20.png
+
+newmtl _Wood_Veneer_01_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.192157 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_11.png
+
+newmtl _Wood_Veneer_01_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.172549 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_8.png
+
+newmtl _0077_DarkGreen_34
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.137255 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_34.png
+
+newmtl _0077_DarkGreen_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.207843 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_31.png
+
+newmtl _0062_YellowGreen_43
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.247059 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_43.png
+
+newmtl _0062_YellowGreen_71
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.247059 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_71.png
+
+newmtl _0062_YellowGreen_27
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.223529 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_27.png
+
+newmtl _0062_YellowGreen_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.235294 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_38.png
+
+newmtl _0062_YellowGreen_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.298039 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_41.png
+
+newmtl _0062_YellowGreen_39
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.298039 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_39.png
+
+newmtl _0062_YellowGreen_70
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.270588 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_70.png
+
+newmtl _0062_YellowGreen_59
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.270588 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_59.png
+
+newmtl _0062_YellowGreen_46
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.266667 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_46.png
+
+newmtl _0062_YellowGreen_55
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.266667 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_55.png
+
+newmtl _0062_YellowGreen_42
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.270588 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_42.png
+
+newmtl _0062_YellowGreen_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.250980 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_26.png
+
+newmtl _0077_DarkGreen_29
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.215686 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0077_DarkGreen_29.png
+
+newmtl _0062_YellowGreen_68
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.231373 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_68.png
+
+newmtl _0062_YellowGreen_44
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.231373 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_44.png
+
+newmtl _0062_YellowGreen_47
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.211765 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_47.png
+
+newmtl _0062_YellowGreen_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.219608 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_30.png
+
+newmtl _0062_YellowGreen_57
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.192157 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_57.png
+
+newmtl M_0062_YellowGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.192157 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0062_YellowGreen.png
+
+newmtl _0062_YellowGreen_51
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.184314 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_51.png
+
+newmtl _0062_YellowGreen_49
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.180392 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0062_YellowGreen_49.png
+
+newmtl _Wood_Veneer_01_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.172549 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_10.png
+
+newmtl _Wood_Veneer_01_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.156863 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_7.png
+
+newmtl M_0077_DarkGreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.215686 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0077_DarkGreen.png
+
+newmtl _Wood_Veneer_01_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.223529 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_Wood_Veneer_01_9.png
+
+newmtl Wood_Veneer_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.196078 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Wood_Veneer_01.png
+
+newmtl M_0132_LightGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.470588 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0132_LightGray.png
+
+newmtl M_0087_Cyan
+Ka 0.000000 0.000000 0.000000
+Kd 0.003922 0.580392 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0087_Cyan.png
+
+newmtl Ground12
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.396078 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Ground12.png
+
+newmtl M_0035_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.313725 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/M_0035_Tan.png
+
+newmtl Grass3
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.243137 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/Grass3.png
+
+newmtl _0110_LightSlateGray_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.341176 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd zapeceny/_0110_LightSlateGray_1.png
+
