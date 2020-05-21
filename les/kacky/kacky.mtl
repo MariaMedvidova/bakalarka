@@ -1,0 +1,52 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_D07
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.298039 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_D07.png
+
+newmtl Color_C08
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.156863 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_C08.png
+
+newmtl Color_G08
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.294118 0.015686
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_G08.png
+
+newmtl Color_M01
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.600000 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_M01.png
+
+newmtl Color_D05
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.431373 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_D05.png
+
+newmtl DefaultMaterial_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.003922 0.003922 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/DefaultMaterial_1.png
+
+newmtl Color_M09
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.031373 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_M09.png
+
+newmtl Color_D02
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.470588 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd kacky/Color_D02.png
+
