@@ -1,0 +1,67 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blacktop_Old_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.533333 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Blacktop_Old_01.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.745098 0.725490
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blacktop_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Blacktop_New.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.623529 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Stone_Masonry_Multi.jpg
+
+newmtl Mirror_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.725490
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Mirror_01.jpg
+
+newmtl Color_M08
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carpet_Diamond_Olive
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.301961 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Carpet_Diamond_Olive.jpg
+
+newmtl Cinder_Block
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.721569 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Cinder_Block.jpg
+
+newmtl Fencing_Lattice_Natural
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.807843 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Fencing_Lattice_Natural.png
+
+newmtl Carpet_Pattern_Squares_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.286275 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd dom-sv-alzbety/Carpet_Pattern_Squares_Multi.jpg
+
